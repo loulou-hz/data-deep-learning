@@ -1,2 +1,2 @@
 # data-deep-learning
-mainly based on python
+most projects based on python3 and python2
